@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  line-height: 1.6;
+  letter-spacing: 0.5;
+  font-size: 1.2rem;
+}
+.panda-bg-color {
+  background-color: #fceae8;
+}
+.panda-bg-btn {
+  background-color: #ff4e95;
+
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+}
